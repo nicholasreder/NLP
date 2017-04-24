@@ -1,0 +1,279 @@
+﻿SUMMARY CANCER DATA:
+Specimen and procedure
+Procedure:        Excision with wire-guided localization
+Specimen laterality:        Left
+Invasive carcinoma with the following features:
+Histologic type:        Invasive ductal carcinoma, NOS (85003)
+Size (largest focus):        1.2cm
+Focality of invasive carcinoma:        Single contiguous focus
+Nottingham Grade:        Grade I: 3-5 points
+    - Tubule Formation:        1 point (> 75%)
+    - Nuclear Pleomorphism:        2 points (moderate)
+    - Mitotic Activity:        1 point
+Ancillary Studies
+Source:        Outside pathology lab (slides reviewed)
+Comment:        SU-14-22423
+Estrogen receptor:        Positive (Allred score = 8 of 8)
+Progesterone receptor:        Positive (Allred score = 4 of 8)
+c-erb-B2 (Her-2/neu) by IHC:        Negative for Her-2/neu overexpression by IHC
+Her-2/neu by FISH:        Not performed/reported
+Skin status:        Cannot assess (skin not present)
+Nipple status:        Cannot assess (nipple not present)
+Skeletal muscle status:        Skeletal muscle not present
+Ductal carcinoma in-situ (DCIS):        Present (85002)
+Nuclear grade of DCIS:        Intermediate
+DCIS qualifies as "extensive intraductal component"?:        No
+Lobular carcinoma in-situ (LCIS):        Absent
+Changes consistent with previous biopsy site:        Present
+Microcalcifications:        Present in non-neoplastic tissue
+Present in DCIS
+Present in invasive carcinoma
+Final surgical resection margins (including separately submitted margins):
+Invasive carcinoma margins:        Carcinoma present at at least one margin
+Invasive carcinoma margin detail:
+Invasive carcinoma present at medial margin in separately submitted specimen (C).
+Invasive carcinoma > 0.5 cm from all other margins in lumpectomy specimen.
+DCIS margin:        DCIS >= 0.5 cm from all margins
+Lymph node involvement
+Sentinel nodes:        Sentinel nodes with carcinoma 1    / Total sentinel nodes 1
+Non-sentinel nodes:        Non-sentinel nodes with carcinoma: 0    / Total non-sentinel nodes: 0
+      - Total number of nodes with macrometastases:        1
+      - Total number of nodes with micrometastases:        0
+      - Total number of nodes with isolated tumor cells:        0
+    Size of largest metastatic focus:        0.21cm
+Extracapsular Extension:        Not identified
+Minimum pathologic stage (AJCC, 7th ed., 2010)
+
+
+SUMMARY CANCER DATA:
+Specimen and procedure
+Procedure:        Excision without wire-guided localization
+Specimen laterality:        Right
+Label/description of most important specimen:        Lumpectomy and sentinel lymph node biopsy
+Invasive carcinoma with the following features:
+Histologic type:        Invasive lobular carcinoma, NOS (85203)
+Size (largest focus):        0.9cm
+Focality of invasive carcinoma:        Single contiguous focus
+Nottingham Grade:        Grade II: 6-7 points
+    - Tubule Formation:        3 points (< 10%)
+    - Nuclear Pleomorphism:        2 points (moderate)
+    - Mitotic Activity:        1 point
+Ancillary Studies
+Source:        Previous UW Medicine biopsy
+Accession number:        SU-14-22998
+Estrogen receptor:        Positive (Allred score = 8 of 8)
+Progesterone receptor:        Positive (Allred score = 8 of 8)
+c-erb-B2 (Her-2/neu) by IHC:
+Equivocal for Her-2/neu overexpression by IHC; FISH studies will be ordered and reported in an addendum
+Ki-67 proliferative index:        10%
+Her-2/neu by FISH:        Negative for Her-2/neu gene amplification by FISH
+Angiolymphatic Space Invasion:        Not identified
+Skin status:        Cannot assess (skin not present)
+Nipple status:        Cannot assess (nipple not present)
+Skeletal muscle status:        Skeletal muscle not present
+Ductal carcinoma in-situ (DCIS):        Not identified
+Lobular carcinoma in-situ (LCIS):        Present (85202)
+Additional findings:        Other finding(s)
+Background breast with non-proliferative fibrocystic changes
+Changes consistent with previous biopsy site:        Present
+Microcalcifications:        Present in non-neoplastic tissue
+Final surgical resection margins (including separately submitted margins):
+Invasive carcinoma margins:        Carcinoma >= 0.2 cm and < 0.5 cm from at least one margin
+Invasive carcinoma margin detail:
+Closest superior (0.3 cm) and posterior (0.35 cm) margins; >0.5 cm remaining margins
+DCIS margin:        Not applicable (no DCIS present)
+Lymph node involvement
+Sentinel nodes:        Sentinel nodes with carcinoma 0    / Total sentinel nodes 1
+Non-sentinel nodes:        Non-sentinel nodes with carcinoma: 0    / Total non-sentinel nodes: 0
+      - Total number of nodes with macrometastases:        0
+      - Total number of nodes with micrometastases:        0
+      - Total number of nodes with isolated tumor cells:        0
+Minimum pathologic stage (AJCC, 7th ed., 2010)
+Primary tumor [pT]:        pT1b: Tumor > 0.5 cm and <= 1.0 cm - greatest dimension
+Regional nodes [pN]:        pN0(i-): No regional lymph node metastases histologically; negative IHC for ITCs
+N stage modifier:        (sn): Only sentinel node(s) evaluated.
+
+
+
+
+SUMMARY CANCER DATA:
+Specimen and procedure
+Procedure:        Excision with wire-guided localization
+Specimen laterality:        Left
+Invasive carcinoma with the following features:
+Histologic type:        Invasive ductal carcinoma, NOS (85003)
+Size (largest focus):        2.4cm   x 1.8cm
+Focality of invasive carcinoma:        Single contiguous focus
+Nottingham Grade:        Grade II: 6-7 points
+    - Tubule Formation:        3 points (< 10%)
+    - Nuclear Pleomorphism:        2 points (moderate)
+    - Mitotic Activity:        1 point
+Ancillary Studies
+Source:        Outside pathology lab (slides reviewed)
+Estrogen receptor:        Positive (Allred score = 8 of 8)
+Progesterone receptor:        Positive (Allred score = 5 of 8)
+c-erb-B2 (Her-2/neu) by IHC:        Not performed/reported
+Her-2/neu by FISH:        Negative for Her-2/neu gene amplification by FISH
+Skin status:        Carcinoma invades dermal stroma of skin
+Nipple status:        Carcinoma invades dermal stroma of nipple
+Skeletal muscle status:        Skeletal muscle not present
+Ductal carcinoma in-situ (DCIS):        Present (85002)
+Nuclear grade of DCIS:        Intermediate
+DCIS qualifies as "extensive intraductal component"?:        Yes
+Lobular carcinoma in-situ (LCIS):        Absent
+Final surgical resection margins (including separately submitted margins):
+Invasive carcinoma margins:        Carcinoma >= 0.5 cm from all margins
+DCIS margin:        DCIS >= 0.5 cm from all margins
+Lymph node involvement
+Sentinel nodes:        Sentinel nodes with carcinoma 2    / Total sentinel nodes 2
+Non-sentinel nodes:        Non-sentinel nodes with carcinoma: 0    / Total non-sentinel nodes: 0
+      - Total number of nodes with macrometastases:        2
+      - Total number of nodes with micrometastases:        0
+      - Total number of nodes with isolated tumor cells:        0
+    Size of largest metastatic focus:        1.3cm
+Extracapsular Extension:        Present
+Minimum pathologic stage (AJCC, 7th ed., 2010)
+Primary tumor [pT]:        pT2: Tumor > 2.0 cm and <= 5.0 cm - greatest dimension
+Regional nodes [pN]:
+pN1a: Metastasis in 1 to 3 axillary lymph nodes (at least 1 tumor deposit greater than 2.0 mm)
+
+
+
+
+SUMMARY CANCER DATA:
+Specimen and tumor location
+Specimen type:        Resection, intact
+Tumor site - general:        Thorax (C49.3)
+Tumor site - detailed:        Left breast and skeletal muscle.
+Characteristics and extent of tumor
+Histologic type:        Pleomorphic sarcoma, undifferentiated (88303)
+Mitotic rate (mitoses/10 high-power fields):        52
+Percent necrosis (macroscopic or microscopic):        5%
+Histologic grade:        Differentiation: 3   Mitoses: 3   Necrosis: 1   Grade (FNCLCC): 3
+Tumor size:        5.1cm
+Macroscopic extent of tumor:        Deep intramuscular
+Therapy prior to surgery:        Unknown/history not provided
+Final surgical resection margins
+Margins:        Sarcoma within 1 cm of at least one margin
+Location and distance to close margin(s):
+Sarcoma is 0.1 cm to the posterior margin and greater than 4.0 cm from all other margins.
+Type of tissue at close margin:        Normal
+Minimum pathologic stage (AJCC, 7th ed., 2010)
+pT2b
+pNXSUMMARY CANCER DATA:
+Specimen and procedure
+Procedure:        Lumpectomy
+Specimen laterality:        Left
+Invasive carcinoma with the following features:
+Histologic type:        Invasive ductal carcinoma, NOS (85003)
+Size (largest focus):        0.1cm
+Focality of invasive carcinoma:        Single contiguous focus
+Nottingham Grade:        Grade III: 8-9 points
+    - Tubule Formation:        3 points (< 10%)
+    - Nuclear Pleomorphism:        3 points (severe)
+    - Mitotic Activity:        3 points
+    Comment about grade:
+Official Nottingham grade is challenging given the limited size, however, the morphologic features are most in keeping with a Nottingham grade III invasive ductal carcinoma.
+Ancillary Studies
+Source:        This case (pending; addendum report to follow)
+Estrogen receptor:        See comment
+Progesterone receptor:        See comment
+c-erb-B2 (her 2) by IHC:        See comment
+HER 2 by FISH:        Not performed/reported
+Ancillary studies comment:
+Breast prognostic/predictive markers have been ordered on the focus of microinvasive carcinoma, and will be reported in an addendum, provided there is enough residual invasive carcinoma present on IHC-stained slides appropriate for interpretation.
+Angiolymphatic Space Invasion:        Not identified
+Skin status:        Cannot assess (skin not present)
+Nipple status:        Cannot assess (nipple not present)
+Skeletal muscle status:        Skeletal muscle not present
+Ductal carcinoma in-situ (DCIS):        Present (85002)
+Nuclear grade of DCIS:        High
+Necrosis associated with DCIS:
+Present and central (expansive "comedo" necrosis)
+Distance spanned by DCIS:        3.3cm
+DCIS qualifies as "extensive intraductal component"?:        Yes
+       Comment about DCIS:        See comment above.
+Changes consistent with previous biopsy site:        Present
+Microcalcifications:        Present in DCIS
+       Microcalcifications comment:        Extensively associated with DCIS.
+Final surgical resection margins (including separately submitted margins):
+Invasive carcinoma margins:        Invasive carcinoma >= 0.5 cm from all margins
+DCIS margin:        DCIS >= 0.2 cm and < 0.5 cm from at least one margin
+DCIS Margins:        Please see margin details described above in final diagnosis section.
+Minimum pathologic stage (AJCC, 7th ed., 2010)
+TNM descriptors:        none
+Primary tumor [pT]:        pT1mic: Microinvasion <=  0.1 cm - greatest dimension in largest focus
+Regional nodes [pN]:        pNX: Cannot be assessed
+N stage modifier:        none
+Comment about stage assignment:        Please see comment above in final diagnosis section.
+
+
+
+
+SUMMARY CANCER DATA:
+Specimen and procedure
+Procedure:        Excision with wire-guided localization
+Specimen laterality:        Right
+Invasive carcinoma with the following features:
+Histologic type:        Invasive ductal carcinoma, NOS (85003)
+Size (largest focus):        1.6cm
+Focality of invasive carcinoma:        Single contiguous focus
+Nottingham Grade:        Grade III: 8-9 points
+    - Tubule Formation:        3 points (< 10%)
+    - Nuclear Pleomorphism:        3 points (severe)
+    - Mitotic Activity:        3 points
+Ancillary Studies
+Source:        Outside pathology laboratory (by report only)
+Comment:        SU-16-14103
+Estrogen receptor:        See comment
+Progesterone receptor:        See comment
+c-erb-B2 (her 2) by IHC:        See comment
+HER 2 by FISH:        See Comment
+Studies other than IHC or FISH for Her-2/neu:
+Previous prognostic/predictive markers were reported as:
+Estrogen receptor expression positive (1-5%, weak nuclear staining).
+Progesterone receptor expression negative (less than 1%, weak nuclear staining).
+Equivocal for HER2 protein overexpression by IHC (2+).
+Equivocal for HER2 gene amplification by fluorescence in situ hybridization (average HER2 copy number: 4.2 signals per cell; average D17Z1 copy number:  2.2 signals per cell; HER2/D17Z1 ratio:  1.9).
+Ancillary studies comment:
+HER2 IHC was repeated on the current specimen and is NEGATIVE for overexpression.
+Angiolymphatic Space Invasion:        Not identified
+Skin status:        Cannot assess (skin not present)
+Nipple status:        Cannot assess (nipple not present)
+Skeletal muscle status:        Skeletal muscle not present
+Ductal carcinoma in-situ (DCIS):        Present (85002)
+Nuclear grade of DCIS:        High
+Necrosis associated with DCIS:
+Present but focal (small foci or single cell necrosis)
+Distance spanned by DCIS:        2cm
+DCIS qualifies as "extensive intraductal component"?:        No
+       Comment about DCIS:
+There are scattered and isolated foci of DCIS that are present in association with, and extend beyond, the invasive component.
+Changes consistent with previous biopsy site:        Present
+Final surgical resection margins (including separately submitted margins):
+Invasive carcinoma margins:        Invasive carcinoma >= 0.5 cm from all margins
+DCIS margin:        DCIS < 0.2 cm from at least one margin
+DCIS Margins:
+DCIS is 0.2 cm to medial margin, <0.1 cm to anterior margin in 2 foci (0.2 cm and 0.1 cm spans), and <0.2 cm to inferior margin (estimated 0.6 cm span: DCIS involves 3 consecutive microscopic sections for a calculated span of 0.6 cm).
+Lymph node involvement
+Sentinel nodes:        Sentinel nodes with carcinoma 0    / Total sentinel nodes 2
+Non-sentinel nodes:        Non-sentinel nodes with carcinoma: 0    / Total non-sentinel nodes: 0
+      - Total number of nodes with macrometastases:        0
+      - Total number of nodes with micrometastases:        0
+      - Total number of nodes with isolated tumor cells:        0
+Minimum pathologic stage (AJCC, 7th ed., 2010)
+TNM descriptors:        none
+Primary tumor [pT]:        pT1c: Tumor > 1.0 cm and <= 2.0 cm - greatest dimension
+Regional nodes [pN]:        pN0: No regional lymph node metastasis histologically (ITCs may be present)
+N stage modifier:        (sn): Only sentinel node(s) evaluated.
+
+
+
+
+
+
+
+
+Primary tumor [pT]:        pT1b: Tumor > 0.5 cm and <= 1.0 cm - greatest dimension
+Regional nodes [pN]:
+pN1a: Metastasis in 1 to 3 axillary lymph nodes (at least 1 tumor deposit greater than 2.0 mm)
